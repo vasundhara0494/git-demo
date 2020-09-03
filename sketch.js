@@ -63,3 +63,5 @@ function draw(){
     bird.display();
     platform.display();
 }
+
+//just adding it for git
